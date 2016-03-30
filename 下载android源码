@@ -3,6 +3,7 @@
 2.创建一个够大的空间文件夹20g+
 3.
 git clone https://aosp.tuna.tsinghua.edu.cn/platform/manifest.git
+清华的镜像，翻墙巨慢，穷没钱代理
 4.cd manifest
 5.git tag/gitk 列出远端分支
 6.git checkout origin/远端分支 -b 本地分支名字
